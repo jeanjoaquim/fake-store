@@ -3,6 +3,7 @@ import localFont from "next/font/local";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Header from "./components/Header";
+import MobileMenu from "./components/MobileMenu";
 
 const inter = Inter({
   subsets: ['latin'],
@@ -25,6 +26,7 @@ export default function RootLayout({
         className={inter.className}
       >
         <Header/>
+        <MobileMenu/>
         {children}
       </body>
     </html>
