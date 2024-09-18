@@ -1,7 +1,6 @@
 "use client";
 import "../globalicons.css";
 import "../globals.css";
-import Image from "next/image";
 import { useState } from "react";
 import MobileMenu from "./MobileMenu";
 import DesktopMenu from "./DesktopMenu";

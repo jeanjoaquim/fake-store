@@ -2,7 +2,6 @@
 import "../globalicons.css";
 import "../globals.css";
 import Image from "next/image";
-import {  useState } from "react";
 
 interface Props {
     onMenuClick: () => void;
