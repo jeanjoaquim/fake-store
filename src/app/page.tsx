@@ -3,6 +3,8 @@ import Header from "./components/Header";
 
 export default function Home() {
   return (
-    <h1>Hello world</h1>
+    <div className="w-screen h-screen">
+      <Image className="w-full h-full object-cover brightness-75" src="/images/hero.jpg" alt="" height={2000} width={2000} />
+    </div>
   );
 }
