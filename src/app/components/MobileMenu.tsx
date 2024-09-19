@@ -8,7 +8,7 @@ interface Props {
 
 export default function MobileMenu({ toggleMenu }: Props) {
     return (
-        <div className={`fixed bg-white w-screen top-0 left-0 h-screen flex-col ${toggleMenu ? 'flex' : 'hidden'}`}>
+        <div className={`fixed z-[1] bg-white w-screen top-0 left-0 h-screen flex-col ${toggleMenu ? 'flex' : 'hidden'}`}>
             <div className="h-2/4 flex justify-center items-center flex-col mt-24" >
                 <Image src="/images/user.jpg" alt="" width="80" height="80" className="rounded-full mb-4" />
                 <h5 className="text-primaryColor font-bold text-lg" >Fernando Souza</h5>

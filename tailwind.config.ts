@@ -10,10 +10,19 @@ const config: Config = {
     extend: {
       colors: {
         background: "var(--background)",
-        primaryColor: "var(--primary-color)",
         foreground: "var(--foreground)",
         'white': "#ffffff",
+        'primaryColor': "#FF5900",
       },
+      zIndex: {
+        '1': '1',
+      },
+      gridColumn: {
+        '1': '1',
+      },
+      gridRow: {
+        '1': '1',
+      }
     },
   },
   plugins: [],
