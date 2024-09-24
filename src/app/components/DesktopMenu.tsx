@@ -16,8 +16,16 @@ export default function DesktopMenu({ onMenuClick }: Props) {
                 <h5 className="font-bold">Market</h5>
             </div>
             <div className="flex items-center">
+                <nav>
+                    <ul className="hidden md:flex mx-8">
+                        <li className="px-8">Home</li>
+                        <li className="px-8">Shop</li>
+                        <li className="px-8">About</li>
+                        <li className="px-8">Contact</li>
+                    </ul>
+                </nav>
                 <span className="material-symbols-outlined py-2 px-2">shopping_cart</span>
-                <button onClick={onMenuClick}>
+                <button className="md:hidden" onClick={onMenuClick}>
                     <span className="material-symbols-outlined py-2 px-2">menu</span>
                 </button>
             </div>
