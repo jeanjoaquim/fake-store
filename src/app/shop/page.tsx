@@ -11,7 +11,7 @@ export default function Shop() {
                         <Image src="/images/product.png" alt="" width={200} height={200}/>
                         <div className="px-2">
                             <h5 className="font-bold">Fjallraven - Foldsack No. 1</h5>
-                            <p className="uppercase text-sm text-neutral-300">men's clothing</p>
+                            <p className="uppercase text-sm text-neutral-300">men&apos;s clothing</p>
                             <p className="text-primaryColor font-bold text-lg">R$300,00</p>
                         </div>
                         <button className="bg-primaryColor w-full text-white py-1">
@@ -22,7 +22,7 @@ export default function Shop() {
                         <Image src="/images/product.png" alt="" width={200} height={200}/>
                         <div className="px-2">
                             <h5 className="font-bold">Fjallraven - Foldsack No. 1</h5>
-                            <p className="uppercase text-sm text-neutral-300">men's clothing</p>
+                            <p className="uppercase text-sm text-neutral-300">men&apos;s clothing</p>
                             <p className="text-primaryColor font-bold text-lg">R$300,00</p>
                         </div>
                         <button className="bg-primaryColor w-full text-white py-1">
@@ -33,7 +33,7 @@ export default function Shop() {
                         <Image src="/images/product.png" alt="" width={200} height={200}/>
                         <div className="px-2">
                             <h5 className="font-bold">Fjallraven - Foldsack No. 1</h5>
-                            <p className="uppercase text-sm text-neutral-300">men's clothing</p>
+                            <p className="uppercase text-sm text-neutral-300">men&apos;s clothing</p>
                             <p className="text-primaryColor font-bold text-lg">R$300,00</p>
                         </div>
                         <button className="bg-primaryColor w-full text-white py-1">
@@ -44,7 +44,7 @@ export default function Shop() {
                         <Image src="/images/product.png" alt="" width={200} height={200}/>
                         <div className="px-2">
                             <h5 className="font-bold">Fjallraven - Foldsack No. 1</h5>
-                            <p className="uppercase text-sm text-neutral-300">men's clothing</p>
+                            <p className="uppercase text-sm text-neutral-300">men&apos;s clothing</p>
                             <p className="text-primaryColor font-bold text-lg">R$300,00</p>
                         </div>
                         <button className="bg-primaryColor w-full text-white py-1">
@@ -55,7 +55,7 @@ export default function Shop() {
                         <Image src="/images/product.png" alt="" width={200} height={200}/>
                         <div className="px-2">
                             <h5 className="font-bold">Fjallraven - Foldsack No. 1</h5>
-                            <p className="uppercase text-sm text-neutral-300">men's clothing</p>
+                            <p className="uppercase text-sm text-neutral-300">men&apos;s clothing</p>
                             <p className="text-primaryColor font-bold text-lg">R$300,00</p>
                         </div>
                         <button className="bg-primaryColor w-full text-white py-1">
@@ -66,7 +66,7 @@ export default function Shop() {
                         <Image src="/images/product.png" alt="" width={200} height={200}/>
                         <div className="px-2">
                             <h5 className="font-bold">Fjallraven - Foldsack No. 1</h5>
-                            <p className="uppercase text-sm text-neutral-300">men's clothing</p>
+                            <p className="uppercase text-sm text-neutral-300">men&apos;s clothing</p>
                             <p className="text-primaryColor font-bold text-lg">R$300,00</p>
                         </div>
                         <button className="bg-primaryColor w-full text-white py-1">
@@ -77,7 +77,7 @@ export default function Shop() {
                         <Image src="/images/product.png" alt="" width={200} height={200}/>
                         <div className="px-2">
                             <h5 className="font-bold">Fjallraven - Foldsack No. 1</h5>
-                            <p className="uppercase text-sm text-neutral-300">men's clothing</p>
+                            <p className="uppercase text-sm text-neutral-300">men&apos;s clothing</p>
                             <p className="text-primaryColor font-bold text-lg">R$300,00</p>
                         </div>
                         <button className="bg-primaryColor w-full text-white py-1">
@@ -88,7 +88,7 @@ export default function Shop() {
                         <Image src="/images/product.png" alt="" width={200} height={200}/>
                         <div className="px-2">
                             <h5 className="font-bold">Fjallraven - Foldsack No. 1</h5>
-                            <p className="uppercase text-sm text-neutral-300">men's clothing</p>
+                            <p className="uppercase text-sm text-neutral-300">men&apos;s clothing</p>
                             <p className="text-primaryColor font-bold text-lg">R$300,00</p>
                         </div>
                         <button className="bg-primaryColor w-full text-white py-1">
